@@ -1,0 +1,18 @@
+
+$darkest-gray: #121725;
+$dark-gray: #2C344B;
+$gray: #5A668A;
+$light-gray: #C2CBE5;
+$green: #54E6AF;
+$light-green: #B3FFE2;
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300;400;700&display=swap');
+
+* {
+  font-family: Chivo;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.debug {
+  border: 2px red solid;
+}

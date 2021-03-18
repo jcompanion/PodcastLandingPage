@@ -1,0 +1,20 @@
+@import "components/reset";
+@import "components/root";
+
+
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: $darkest-gray;
+  background-image: url("../assets/mobile/image-host.jpg");
+  background-blend-mode: overlay;
+  
+  section {
+    
+  }
+}
+
